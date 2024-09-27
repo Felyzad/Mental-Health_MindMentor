@@ -10,7 +10,7 @@ load_dotenv()
 
 st.title('🧠 MindMentor')
 st.write("""
-Welcome to *MindMentor*, a tool designed by DIXONS TRINITY MENTAL HEALTH WELLBEING CHAMPIONS to help assess mental health wellbeing through insightful questions. 
+Welcome to *MindMentor*, a tool designed by EMMANUEL ADULOJU to help assess mental health wellbeing through insightful questions. 
 Please proceed by generating the questions and providing your honest answers.
 """)
 
